@@ -8,6 +8,8 @@ I am a Software Engineer from Łódź, Poland. I like helping others and sometim
 
 ![StackOverflow](https://stackoverflow.com/users/flair/4956907.png?theme=dark)
 
+![](https://komarev.com/ghpvc/?username=mkrzywanski&style=plastic)
+
 <!--
 **mkrzywanski/mkrzywanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
